@@ -1,0 +1,28 @@
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\bin\Debug\Kulup.mdf
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\bin\Debug\Kulup_log.ldf
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\bin\Debug\ayseakulup.exe.config
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\bin\Debug\ayseakulup.exe
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\bin\Debug\ayseakulup.pdb
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\obj\Debug\ayseakulup.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\obj\Debug\ayseakulup.AdminForm.resources
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\obj\Debug\ayseakulup.Form1.resources
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\obj\Debug\ayseakulup.KullaniciForm.resources
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\obj\Debug\ayseakulup.Properties.Resources.resources
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\obj\Debug\ayseakulup.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\obj\Debug\ayseakulup.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\obj\Debug\ayseakulup.exe
+C:\Users\PC\Desktop\udemy\ayseakulup\ayseakulup\obj\Debug\ayseakulup.pdb
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\bin\Debug\Kulup.mdf
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\bin\Debug\Kulup_log.ldf
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\bin\Debug\ayseakulup.exe.config
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\bin\Debug\ayseakulup.exe
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\bin\Debug\ayseakulup.pdb
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\obj\Debug\ayseakulup.csproj.AssemblyReference.cache
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\obj\Debug\ayseakulup.AdminForm.resources
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\obj\Debug\ayseakulup.Form1.resources
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\obj\Debug\ayseakulup.KullaniciForm.resources
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\obj\Debug\ayseakulup.Properties.Resources.resources
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\obj\Debug\ayseakulup.csproj.GenerateResource.cache
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\obj\Debug\ayseakulup.csproj.CoreCompileInputs.cache
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\obj\Debug\ayseakulup.exe
+C:\Users\Ayse\Desktop\ayşe akyıldırım\ayseakulup\ayseakulup\obj\Debug\ayseakulup.pdb
